@@ -1,6 +1,6 @@
 # Cryogenic Roofline
 
-Code and numerical data accompanying **The Cryogenic Roofline: Energy Break-Even for Quantum-Assisted LLM Serving**, by **Somdip Dey** ([ORCID](https://orcid.org/0000-0001-6161-4637)).
+Code and numerical data accompanying **The Cryogenic Roofline: Energy Break-Even for Chiplet-Based Quantum-Assisted LLM Serving**, by **Somdip Dey** ([ORCID](https://orcid.org/0000-0001-6161-4637)).
 
 **Artifact version:** 2.1.0  
 **Manuscript status:** Unpublished manuscript, 2026. Not accepted for publication yet.
@@ -208,7 +208,7 @@ Changing the input angles changes the score but not the gate count or the curren
 
 If you use this code or its numerical data, cite the accompanying unpublished manuscript and identify the repository commit or release used. The following is a provisional citation; it does not imply acceptance or publication in IEEE Micro:
 
-> Somdip Dey. “The Cryogenic Roofline: Energy Break-Even for Quantum-Assisted LLM Serving.” Unpublished manuscript, 2026. Accompanying computational artifact, version 2.1.0.
+> Somdip Dey. “The Cryogenic Roofline: Energy Break-Even for Chiplet-Based Quantum-Assisted LLM Serving.” Unpublished manuscript, 2026. Accompanying computational artifact, version 2.1.0.
 
 ```bibtex
 @unpublished{dey2026cryogenic_roofline,
