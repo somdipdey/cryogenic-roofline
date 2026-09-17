@@ -1,0 +1,18 @@
+parameter,value,status,source_or_qualification
+artifact_version,2.1.0,artifact metadata,artifact/config.json; not a measured LLM or complete quantum system
+hot_temperature_k,300.0,assumed analysis input,artifact/config.json; not a measured LLM or complete quantum system
+controller_temperature_k,4.0,temperature of published controller anchor,"Underwood et al., DOI 10.1103/PRXQuantum.5.010326"
+carnot_fraction,0.02,assumed analysis input,artifact/config.json; not a measured LLM or complete quantum system
+qubits,8,assumed analysis input,artifact/config.json; not a measured LLM or complete quantum system
+controller_power_per_qubit_w,0.023,published measurement anchor; linear scaling assumed,"Underwood et al., PRX Quantum 5, 010326 (2024), abstract; 14 nm, 4 K, active control"
+shot_duration_s,0.0001,assumed analysis input,artifact/config.json; not a measured LLM or complete quantum system
+failure_probability,0.05,assumed analysis input,artifact/config.json; not a measured LLM or complete quantum system
+statistical_error,0.1,assumed analysis input,artifact/config.json; not a measured LLM or complete quantum system
+allowed_bias,0.02,assumed analysis input,artifact/config.json; not a measured LLM or complete quantum system
+tokens_per_decision,32,assumed analysis input,artifact/config.json; not a measured LLM or complete quantum system
+availability,0.9,assumed analysis input,artifact/config.json; not a measured LLM or complete quantum system
+token_rate_per_s,1000.0,assumed analysis input,artifact/config.json; not a measured LLM or complete quantum system
+available_controller_cooling_w_per_plant,1.5,assumed analysis input,artifact/config.json; not a measured LLM or complete quantum system
+fixed_wall_power_w_per_plant,5000.0,assumed analysis input,artifact/config.json; not a measured LLM or complete quantum system
+illustrative_energy_fraction,0.3,assumed analysis input,artifact/config.json; not a measured LLM or complete quantum system
+illustrative_overhead_fraction,0.05,assumed analysis input,artifact/config.json; not a measured LLM or complete quantum system

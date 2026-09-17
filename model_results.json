@@ -1,0 +1,43 @@
+{
+  "version": "2.1.0",
+  "case": {
+    "epsilon_stat": 0.1,
+    "delta": 0.05,
+    "shots": 738,
+    "decision_duration_s": 0.0738,
+    "controller_power_w": 0.184,
+    "controller_multiplier": 3701.0,
+    "controller_energy_j_per_decision": 50.2566192,
+    "controller_energy_j_per_token": 1.57051935,
+    "engine_capacity_decisions_per_s": 12.195121951219512,
+    "rate_tokens_per_s": 1000.0,
+    "engines_required": 3,
+    "engines_per_plant": 8,
+    "plants_required": 1,
+    "controller_peak_w_all_engines": 0.552,
+    "allocated_fixed_j_per_token": 5.0,
+    "controller_plus_fixed_j_per_token": 6.57051935,
+    "scope": "controller contribution and optional assumed fixed plant allocation; other loads unquantified"
+  },
+  "reference": {
+    "input_angles_rad": [
+      -0.6,
+      -0.4,
+      -0.2,
+      0.0,
+      0.19999999999999996,
+      0.3999999999999999,
+      0.6,
+      0.8
+    ],
+    "qubits": 8,
+    "amplitudes": 256,
+    "single_qubit_gates": 72,
+    "cnot_gates": 32,
+    "norm": 0.9999999999999999,
+    "ideal_z0": 0.5071208833939499,
+    "hardware_bias_certified": false,
+    "classical_energy_measured": false,
+    "scope": "fixed eight-qubit verification circuit, independent of controller sizing overrides"
+  }
+}

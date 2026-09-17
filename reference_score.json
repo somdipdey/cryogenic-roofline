@@ -1,0 +1,21 @@
+{
+  "input_angles_rad": [
+    -0.6,
+    -0.4,
+    -0.2,
+    0.0,
+    0.19999999999999996,
+    0.3999999999999999,
+    0.6,
+    0.8
+  ],
+  "qubits": 8,
+  "amplitudes": 256,
+  "single_qubit_gates": 72,
+  "cnot_gates": 32,
+  "norm": 0.9999999999999999,
+  "ideal_z0": 0.5071208833939499,
+  "hardware_bias_certified": false,
+  "classical_energy_measured": false,
+  "scope": "fixed eight-qubit verification circuit, independent of controller sizing overrides"
+}

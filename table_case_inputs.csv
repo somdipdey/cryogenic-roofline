@@ -1,0 +1,2 @@
+artifact_version,hot_temperature_k,controller_temperature_k,carnot_fraction,qubits,controller_power_per_qubit_w,shot_duration_s,failure_probability,statistical_error,allowed_bias,tokens_per_decision,availability,token_rate_per_s,available_controller_cooling_w_per_plant,fixed_wall_power_w_per_plant,illustrative_energy_fraction,illustrative_overhead_fraction,scope
+2.1.0,300.0,4.0,0.02,8,0.023,0.0001,0.05,0.1,0.02,32,0.9,1000.0,1.5,5000.0,0.3,0.05,single controller-allocation case; see parameter_provenance.csv

@@ -1,0 +1,5 @@
+temperature_k,eta,cooling_factor_chi,local_electrical_multiplier_A,status
+300.0,0.02,0.0,1.0,illustrative efficiency; no complete-system prediction
+4,0.02,3700.0,3701.0,illustrative efficiency; no complete-system prediction
+1,0.02,14950.0,14951.0,illustrative efficiency; no complete-system prediction
+0.02,0.02,749950.0,749951.0,illustrative efficiency; no complete-system prediction
