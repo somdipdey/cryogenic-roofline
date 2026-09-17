@@ -1,0 +1,19 @@
+{
+  "artifact_version": "2.1.0",
+  "hot_temperature_k": 300.0,
+  "controller_temperature_k": 4.0,
+  "carnot_fraction": 0.02,
+  "qubits": 8,
+  "controller_power_per_qubit_w": 0.023,
+  "shot_duration_s": 0.0001,
+  "failure_probability": 0.05,
+  "statistical_error": 0.1,
+  "allowed_bias": 0.02,
+  "tokens_per_decision": 32,
+  "availability": 0.9,
+  "token_rate_per_s": 1000.0,
+  "available_controller_cooling_w_per_plant": 1.5,
+  "fixed_wall_power_w_per_plant": 5000.0,
+  "illustrative_energy_fraction": 0.3,
+  "illustrative_overhead_fraction": 0.05
+}
